@@ -1,9 +1,8 @@
 Website containing three diverse recipes
 
-Created using HTML
-
-Skills applied:
-HTML structure
-Links
-Images
+Applied:
+Basic HTML structure
+Lists
+Addition of links
+Addition of images
 
